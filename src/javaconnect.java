@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Win10
+ * @author John Vel
  */
 
 import java.sql.*;
