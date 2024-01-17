@@ -9,15 +9,11 @@ Click the image to watch the video:
 
 -Profile
    
-   
    -Name
-   
    
    -Date of birth
    
-   
    -Nationality
-   
    
    -Gender
 
