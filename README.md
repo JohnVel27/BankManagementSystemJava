@@ -23,13 +23,18 @@ Occupation
 </li>
 </ul>
 
-Deposit:
-
-User
+<ul>
+<li>
+<p>Deposit</p>
+<pre><code>User
 Name
 Account no.
 Available balance
 Deposit amount
+</code></pre>
+</li>
+</ul>
+
 Transfer:
 
 User
