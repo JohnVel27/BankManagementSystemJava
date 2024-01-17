@@ -7,11 +7,11 @@ Click the image to watch the video:
 
 # Banking Management System Features:
 
-*Profile
-   *Name
-   *Date of birth
-   *Nationality
-   *Gender
++Profile
+   -Name
+   -Date of birth
+   -Nationality
+   -Gender
 
 Address
 Account no.
