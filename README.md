@@ -9,16 +9,16 @@ Click the image to watch the video:
 <ul>
 <li>
 <p>Profile</p>
-<pre><code>Name,
-  Date of Birth,
-  Nationality,
-  Gender,
-  Address,
-  Account no.,
-  Account type,
-  Civil Status,
-  Mobile,
-  Occupation
+<pre><code>Name
+Date of Birth
+Nationality
+Gender
+Address
+Account no.
+Account type
+Civil Status
+Mobile
+Occupation
 </code></pre>
 </li>
 </ul>
