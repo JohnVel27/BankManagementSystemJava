@@ -21,18 +21,36 @@ Creating a Banking Management System using Java Swing for the graphical user int
   
   <ul>
   <li>
-  <p><li>Set Up the Development Environment</li></p>
+  <p>Set Up the Development Environment</p>
   <p>Install Java Development Kit (JDK) for Java development</p>
   <p>Set up a Java Integrated Development Environment (IDE) like Eclipse or Netbeans.</p>
   </li>
   </ul>
 
 
-2. Design the Database
+<ul>
+  <li>
+  <p>Design the Database</p>
+  <p>Define the database schema with tables such as Customers, Accounts, Transactions, etc</p>
+  <p>Use SQLite Database Browser to create the SQLite database file (banking_system.db) and define tables.</p>
+  </li>
+  </ul>
 
-3. Create Java Classes for Database Operation
+  <ul>
+  <li>
+  <p>Create Java Classes for Database Operation</p>
+  <p>Implement Java classes to interact with the SQLite database using JDBC.</p>
+  <p>Methods for connecting to the database, inserting new records, querying data, etc.</p>
+  </li>
+  </ul>
 
-4. Design the GUI using Java Swing
+  <ul>
+  <li>
+  <p>Design the GUI using Java Swing</p>
+  <p>Create Java Swing forms and components for different functionalities such as customer registration, account management, transaction history, etc.</p>
+  <p>Use layout managers (e.g., FlowLayout, BorderLayout) for arranging components.</p>
+  </li>
+  </ul>
 
 5. Connect GUI with Database Operations
 
