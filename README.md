@@ -1,6 +1,15 @@
 # Banking Management System using JAVA SWING AND SQLITE DATABASE BROWSER
 Creating a Banking Management System using Java Swing for the graphical user interface and SQLite as the database can be a comprehensive project. Below, I'll provide a basic outline and explanation of the key components and steps involved in building such a system.
 
+## Tools and Technologies##
+1.Java: For the core logic and backend implementation.
+
+2.Java Swing: For creating the graphical user interface (GUI).
+
+3.SQLite: A lightweight relational database management system.
+
+4.SQLite Database Browser: A tool for managing SQLite databases.
+
 
 Click the image to watch the video:
 
