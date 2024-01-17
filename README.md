@@ -18,13 +18,13 @@ Creating a Banking Management System using Java Swing for the graphical user int
 
   <ul>
   <li>
-  <p>  Install Java Development Kit (JDK) for Java development</p>
+  <p>Install Java Development Kit (JDK) for Java development</p>
   </li>
   </ul>
 
    <ul>
   <li>
-  <p>  Set up a Java Integrated Development Environment (IDE) like Eclipse or Netbeans.</p>
+  <p>`Set up a Java Integrated Development Environment (IDE) like Eclipse or Netbeans.</p>
   </li>
   </ul>
 
