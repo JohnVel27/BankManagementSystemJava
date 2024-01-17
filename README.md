@@ -6,16 +6,13 @@ Click the image to watch the video:
 
 
 # Banking Management System Features:
-<ol>
+<ul>
 <li>
 <p>Profile</p>
-<pre><code>indented code
+<pre><code>Name,Date of Birth,Nationality,Gender
 </code></pre>
-<blockquote>
-<p>A block quote.</p>
-</blockquote>
 </li>
-</ol>
+</ul>
 -Profile
    
    -Name
