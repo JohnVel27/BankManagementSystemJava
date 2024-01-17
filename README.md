@@ -63,7 +63,7 @@ Total
 
 <ul>
 <li>
-<p>Custmoer List</p>
+<p>Customer List</p>
 </li>
 </ul>
 
