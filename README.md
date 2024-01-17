@@ -24,7 +24,7 @@ Creating a Banking Management System using Java Swing for the graphical user int
 
    <ul>
   <li>
-  <p>`Set up a Java Integrated Development Environment (IDE) like Eclipse or Netbeans.</p>
+  <p>Set up a Java Integrated Development Environment (IDE) like Eclipse or Netbeans.<hr /></p>
   </li>
   </ul>
 
