@@ -16,14 +16,16 @@ Creating a Banking Management System using Java Swing for the graphical user int
 
 <hr />
 
-<pre><code>a simple
-  indented code block
-</code></pre>
 
 ## Steps to Create a Banking Management System
 
 1. Set Up the Development Environment
 
+  -Install Java Development Kit(JDK) for Java development
+
+  -Set up a Java Integrated Development Environment(IDE) like Eclipse or Netbeans.
+  
+  
   <ul>
   <li>
   <p>Install Java Development Kit (JDK) for Java development</p>
