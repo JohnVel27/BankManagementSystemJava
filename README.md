@@ -12,6 +12,8 @@ Creating a Banking Management System using Java Swing for the graphical user int
 
 4. SQLite Database Browser: A tool for managing SQLite databases.
 
+<hr />
+
 ## Steps to Create a Banking Management System
 
 1. Set Up the Development Environment
@@ -24,7 +26,7 @@ Creating a Banking Management System using Java Swing for the graphical user int
 
    <ul>
   <li>
-  <p>Set up a Java Integrated Development Environment (IDE) like Eclipse or Netbeans.<hr /></p>
+  <p>Set up a Java Integrated Development Environment (IDE) like Eclipse or Netbeans.</p>
   </li>
   </ul>
 
