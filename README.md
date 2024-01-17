@@ -52,19 +52,61 @@ Creating a Banking Management System using Java Swing for the graphical user int
   </li>
   </ul>
 
-5. Connect GUI with Database Operations
+  <ul>
+  <li>
+  <p>Connect GUI with Database Operations</p>
+  <p>Link GUI components with the database operations implemented earlier.</p>
+  <p>For example, when a user clicks the "Register" button on the registration form, the corresponding method should insert the data into the Customers table.</p>
+  </li>
+  </ul>
 
-6. Implement Business Logic
+  <ul>
+  <li>
+  <p>Implement Business Logic</p>
+  <p>Define classes and methods for business logic, such as calculating interest, handling transactions, etc.</p>
+  </li>
+  </ul>
 
-7. Error Handling and Validation
+  <ul>
+  <li>
+  <p>Error Handling and Validation</p>
+  <p>Implement proper error handling and input validation to ensure data integrity.</p>
+  </li>
+  </ul>
 
-8. Testing
+  <ul>
+  <li>
+  <p>Testing</p>
+  <p>Test the application thoroughly to identify and fix any bugs or issues..</p>
+  <p>Test different scenarios, such as creating accounts, making transactions, handling errors, etc.</p>
+  </li>
+  </ul>
 
-9. Documentation
+  <ul>
+  <li>
+  <p>Documentation</p>
+  <p>Document your code, especially complex algorithms or custom functions.</p>
+  <p>Create user manuals or developer documentation if needed.</p>
+  </li>
+  </ul>
 
-10. Deployment
+  <ul>
+  <li>
+  <p>Deployment</p>
+  <p>Package your application into a runnable JAR file.</p>
+  <p>Distribute or deploy your application as needed.</p>
+  </li>
+  </ul>
 
-11. Maintenance and Updates
+  <ul>
+  <li>
+  <p>Maintenance and Updates</p>
+  <p>Address user feedback and fix bugs as they arise</p>
+  <p>Consider adding new features or improving existing ones based on user needs</p>
+  </li>
+  </ul>
+
+  <hr />
 
 
 
