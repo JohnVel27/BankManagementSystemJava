@@ -35,39 +35,72 @@ Deposit amount
 </li>
 </ul>
 
-Transfer:
-
-User
+<ul>
+<li>
+<p>Transfer</p>
+<pre><code>User
 Name
 Account no.
 Available balance
 Transfer amount
 Credit amount
-Withdrawal:
+</code></pre>
+</li>
+</ul>
 
-User
+<ul>
+<li>
+<p>Withdrawal</p>
+<pre><code>User
 Name
 Account no.
 Available balance
 Withdrawal amount
 Total
-Customer List
+</code></pre>
+</li>
+</ul>
 
-View Balance:
+<ul>
+<li>
+<p>Custmoer List</p>
+</li>
+</ul>
 
-User
+<ul>
+<li>
+<p>View Balance</p>
+<pre><code>User
 Name
 Account no.
 Rate of interest
 Available balance
 Mod balance
 Nomination Registered
-Change Pin:
+</code></pre>
+</li>
+</ul>
 
-Enter your old pin
+<ul>
+<li>
+<p>Change pin</p>
+<pre><code>Enter your old pin
 Enter your new pin
-About
+</code></pre>
+</li>
+</ul>
 
-Transaction
+<ul>
+<li>
+<p>About</p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p>Transaction</p>
+</li>
+</ul>
+
 
 This structure outlines the main features and functionalities of the banking management system. Feel free to use this as a foundation for your script or application
