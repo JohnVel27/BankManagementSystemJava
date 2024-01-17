@@ -115,6 +115,8 @@ Creating a Banking Management System using Java Swing for the graphical user int
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ESxDUzU8ueU/0.jpg)](https://www.youtube.com/watch?v=ESxDUzU8ueU)
 
+<hr />
+
 
 # Banking Management System Features:
 <ul>
