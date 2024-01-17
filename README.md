@@ -9,27 +9,11 @@ Click the image to watch the video:
 <ul>
 <li>
 <p>Profile</p>
-<pre><code>Name,Date of Birth,Nationality,Gender
+<pre><code>Name,Date of Birth,Nationality,Gender,Address,Account no.,Account type,Civil Status,Mobile,Occupation
 </code></pre>
 </li>
 </ul>
--Profile
-   
-   -Name
-   
-   -Date of birth
-   
-   -Nationality
-   
-   -Gender
 
-
-Address
-Account no.
-Account type
-Civil Status
-Mobile
-Occupation
 Deposit:
 
 User
